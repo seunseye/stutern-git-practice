@@ -1,0 +1,70 @@
+Last login: Mon Jun  8 09:20:36 on ttys000
+Ms-MacBook-Pro:~ macintoshhd$ cd desktop
+Ms-MacBook-Pro:desktop macintoshhd$ git clone https://github.com/seunseye/stutern-git-practice.git
+fatal: destination path 'stutern-git-practice' already exists and is not an empty directory.
+Ms-MacBook-Pro:desktop macintoshhd$ cd stutern-git-practice
+Ms-MacBook-Pro:stutern-git-practice macintoshhd$ ls
+README.md	seun.txt
+Ms-MacBook-Pro:stutern-git-practice macintoshhd$ git checkout -b seun-changes
+Switched to a new branch 'seun-changes'
+Ms-MacBook-Pro:stutern-git-practice macintoshhd$ emacs seun.txt
+
+
+
+
+
+
+
+
+
+
+
+
+seun.txt God is great
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-uuu:**-F1  seun.txt       All L1     (Text)-----------------------------------------------------------------------------------------------------------------------------------------
+
